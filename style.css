@@ -23,6 +23,7 @@ body {
 
 .container {
     height: 100vh;
+    display: grid;
 }
 
 .container__botao {
