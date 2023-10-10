@@ -33,5 +33,8 @@ body {
     padding: 1em;
     color: var(--branco-principal);
     display: block;
+}
 
+.botao_secundario {
+    background-color: transparent;
 }
