@@ -50,3 +50,9 @@ body {
     color: var(--cinza-secundario);
 }
 
+.container__titulo{
+    font-size: 28px;
+    font-weight: 700;
+
+
+}
