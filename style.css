@@ -79,4 +79,5 @@ body {
     font-weight: 700;
     font-size: 48px;
     color: var(--branco-principal);
+    margin-bottom: 0.5em;
 }
