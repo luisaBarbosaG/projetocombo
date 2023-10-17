@@ -74,3 +74,9 @@ body {
     align-items: center;
     margin: 0 10em;
 }
+
+.descricao__titulo {
+    font-weight: 700;
+    font-size: 48px;
+    color: var(--branco-principal);
+}
