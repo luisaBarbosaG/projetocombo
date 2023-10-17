@@ -23,6 +23,7 @@ body {
     background-image: url("Background.png");
     background-repeat: no-repeat;
     background-size: contain;
+    align-items: center;
 }
 
 .container {
