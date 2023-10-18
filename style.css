@@ -90,3 +90,8 @@ body {
     display: inline-block;
     margin-top: 1em;
 }
+
+.container__descricao {
+    padding: 2em;
+}
+
