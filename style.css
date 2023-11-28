@@ -95,3 +95,6 @@ body {
     padding: 2em;
 }
 
+.dispositivos__lista {
+    display: flex;
+}
